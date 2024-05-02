@@ -6,18 +6,18 @@ JOBS=[
     'id':1,
     'job_role':'Data Scientist',
     'location':'Delhi, India',
-    'salary':'Rs.1200000 LPA'
+    'salary':'Rs.1500000 LPA'
   },
   {
     'id':2,
     'job_role':'Data Analyst',
-    'location':'Delhi, India',
-    'salary':'Rs.1000000 LPA'
+    'location':'USA',
+    'salary':' $1000000'
   },
   {
     'id':3,
     'job_role':'Fullstack Developer',
-    'location':'Delhi, India',
+    'location':'chennai, India',
     'salary':'Rs.1300000 LPA'
   },
 ]
